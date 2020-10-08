@@ -1,0 +1,4 @@
+[build]
+base = "covid-tarcking/"
+publish = "covid-tarcking/build/"
+command = "npm run build"
